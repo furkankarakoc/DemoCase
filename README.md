@@ -48,12 +48,12 @@ The image is loaded from a URL using the SDWebImage library.
 
 Finally, there is an overridden setSelected method that is called when the cell is selected, but it doesn't currently have any additional configuration beyond the superclass implementation.
 
-<img src="https://user-images.githubusercontent.com/44609894/224569771-5461a771-713e-48dd-80cf-8a75537dbd92.png" width="180" height="300">
-<img src="https://user-images.githubusercontent.com/44609894/224569774-260662ad-2c80-4b2e-a3c8-30bd739a90c3.png" width="180" height="300">
-<img src="https://user-images.githubusercontent.com/44609894/224569776-a0f915dc-c0ca-428a-b87e-6c6022edd9e9.png" width="180" height="300">
-<img src="https://user-images.githubusercontent.com/44609894/224569777-40563c9f-f615-4830-9607-628f189fe68c.png" width="180" height="300">
-<img src="https://user-images.githubusercontent.com/44609894/224569783-2af2426e-4a4b-4fbf-b5ad-dc17ca0ce704.png" width="180" height="300">
-<img src="https://user-images.githubusercontent.com/44609894/224569784-ec891b42-f9bd-4c26-bf50-913d17a57f78.png" width="180" height="300">
+| <img src="https://user-images.githubusercontent.com/44609894/224569771-5461a771-713e-48dd-80cf-8a75537dbd92.png" width="180" height="300"> |
+<img src="https://user-images.githubusercontent.com/44609894/224569774-260662ad-2c80-4b2e-a3c8-30bd739a90c3.png" width="180" height="300"> |
+<img src="https://user-images.githubusercontent.com/44609894/224569776-a0f915dc-c0ca-428a-b87e-6c6022edd9e9.png" width="180" height="300"> |
+<img src="https://user-images.githubusercontent.com/44609894/224569777-40563c9f-f615-4830-9607-628f189fe68c.png" width="180" height="300"> |
+<img src="https://user-images.githubusercontent.com/44609894/224569783-2af2426e-4a4b-4fbf-b5ad-dc17ca0ce704.png" width="180" height="300"> |
+<img src="https://user-images.githubusercontent.com/44609894/224569784-ec891b42-f9bd-4c26-bf50-913d17a57f78.png" width="180" height="300"> |
 
 
 
