@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tHU-fy-km8">
+            <objects>
+                <viewController id="mcY-c5-Rc3" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="YSy-fz-xzz">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="kocSistem" translatesAutoresizingMaskIntoConstraints="NO" id="cah-sw-ynd">
+                                <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="BoY-LC-KJ8"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="cah-sw-ynd" firstAttribute="centerX" secondItem="YSy-fz-xzz" secondAttribute="centerX" id="cux-q9-pIu"/>
+                            <constraint firstItem="cah-sw-ynd" firstAttribute="centerY" secondItem="YSy-fz-xzz" secondAttribute="centerY" id="g0v-vs-Cyu"/>
+                            <constraint firstItem="cah-sw-ynd" firstAttribute="leading" secondItem="BoY-LC-KJ8" secondAttribute="leading" id="lWd-g9-qkA"/>
+                            <constraint firstItem="cah-sw-ynd" firstAttribute="top" secondItem="YSy-fz-xzz" secondAttribute="topMargin" constant="-59" id="sj4-cu-edo"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="udr-01-SFc" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="51.145038167938928" y="374.64788732394368"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="kocSistem" width="400" height="472"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
